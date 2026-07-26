@@ -1,11 +1,7 @@
 # AiEng4d
 AiEng4D formerly TinyML4D
 
-
----
-layout: default
-permalink: /
----
+Webpage Link:  https://hpssjellis.github.io/AiEng4d/
 
 # AIEng4D (former TinyML4D)
 

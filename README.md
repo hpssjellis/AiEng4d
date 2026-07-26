@@ -45,7 +45,7 @@ Webpage Link:  https://hpssjellis.github.io/AiEng4d/   <img src="https://github.
 
 ## About Me
 
-<img class="profile-photo" src="https://avatars.githubusercontent.com/u/10007802?v=4&size=64" alt="Jeremy Ellis teaching" onerror="this.remove()">
+<img class="profile-photo" src="Ellis-profile.jpg" alt="Jeremy Ellis teaching" onerror="this.remove()">
 
 This site is a personal hub for my work with the AIEng4D academic network — the courses, books, workshops, and tutorials gathered here. A little about me:
 

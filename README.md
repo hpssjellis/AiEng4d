@@ -24,6 +24,7 @@ Webpage Link:  https://hpssjellis.github.io/AiEng4d/   <img src="https://github.
 ### [2025 Maker100 XIAO ML Kit](https://github.com/hpssjellis/maker100-xiaoML-kit)
 ### [2024 maker100 Eco](https://github.com/hpssjellis/maker100-xiaoML-kit)
 ### [2022 Maker100 Arduino PortentaH7](https://github.com/hpssjellis/maker100)
+### [2019 Deprecated Robotics Course](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
 
 <a id="workshops" class="anchor-target"></a>
 

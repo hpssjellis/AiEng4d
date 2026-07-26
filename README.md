@@ -13,16 +13,25 @@ Webpage Link:  https://hpssjellis.github.io/AiEng4d/   <img src="https://github.
 <a id="courses" class="anchor-target"></a>
 
 ## Courses & Curriculum
-### [Maker100 Leaders Robotics Curriculum](https://github.com/hpssjellis/maker100-robotics)
-### [WebMCU-AI Browser-Based Machine Learning & WebSerial Framework](https://github.com/webmcu-ai)
+
+### [WebMCU-AI full on-device Machine learning with webSerial asssited Training](https://github.com/webmcu-ai)
+
+### [Maker100 Curriculum](https://github.com/hpssjellis/maker100-curriculum)
+### [2026 Maker100 Leaders Robotics](https://github.com/hpssjellis/maker100-leaders-robotics)
+### [Leaders Robotics Hardware Price List From Source](https://hpssjellis.github.io/maker100-leaders-robotics/price-list-2026.html)
+### [Maker100 Youtube Playlist](https://www.youtube.com/watch?v=EvNXQ0sk5Ec&list=PL57Dnr1H_egtkBZJku20Bo2zaR8KUJGpa&index=1&pp=gAQBiAQB)
+### []()
+### [2025 Maker100 XIAO ML Kit](https://github.com/hpssjellis/maker100-xiaoML-kit)
+### [2024 maker100 Eco](https://github.com/hpssjellis/maker100-xiaoML-kit)
+### [2022 Maker100 Arduino PortentaH7](https://github.com/hpssjellis/maker100)
 
 <a id="workshops" class="anchor-target"></a>
 
 ## Workshops & Lectures
 
 ### Highlights
-- #### [AI for Good Global Summit — Geneva, Switzerland](https://github.com/hpssjellis)
-- #### AIEng4D Global Show & Tell Sessions — Zero-Cloud & Client-Side EdgeAI Focus
+- #### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready 
+- #### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Zero-Cloud & Client-Side EdgeAI Focus
 
 <a id="tutorials" class="anchor-target"></a>
 

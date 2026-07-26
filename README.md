@@ -4,11 +4,13 @@ Webpage Link:  https://hpssjellis.github.io/AiEng4d/   <img src="https://github.
 
 # [AIEng4D]() (former [TinyML4D](https://tinyml.seas.harvard.edu/4D/AcademicNetwork))
 
+## [mlsysbook.ai by Vijay Janapa Reddi, Harvard](https://mlsysbook.ai/)
+
+#* [Support AiEng4D](https://opencollective.com/mlsysbook)
+
 Community of researchers and practitioners focused on both improving access to AI Engineering education and enabling innovative solutions for the unique challenges faced by Developing Countries.
 
-# [mlsysbook.ai by Vijay Janapa Reddi, Harvard](https://mlsysbook.ai/)
 
-# [Support AiEng4D](https://opencollective.com/mlsysbook)
 
 <img src='network-july26.png' alt='AIEng4D academic network — partner universities across Latin America, Africa and Asia'/>
 

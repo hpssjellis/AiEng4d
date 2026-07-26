@@ -1,5 +1,5 @@
 # AiEng4d
-AiEng4D formerly TinyML4D      ![AIEng4D Logo](aieng4d-mark.png)
+AiEng4D formerly TinyML4D      <img src="https://github.com/hpssjellis/AiEng4d/raw/main/aieng4d-mark.png" width=100 align=right>
 
 Webpage Link:  https://hpssjellis.github.io/AiEng4d/
 

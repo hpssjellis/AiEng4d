@@ -1,3 +1,6 @@
+# By Jeremy Ellis Github Profile at https://github.com/hpssjellis
+
+
 Webpage Link:  https://hpssjellis.github.io/AiEng4d/   <img src="https://github.com/hpssjellis/AiEng4d/raw/main/aieng4d-mark.png" width=100 align=right>
 
 

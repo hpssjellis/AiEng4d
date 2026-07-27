@@ -86,4 +86,4 @@ His open educational frameworks, tools, and open-source repositories, hosted pub
 
 <hr>
 
-These materials are part of the [AIEng4D](https://tinyml.seas.harvard.edu/) initiative, making Embedded & Edge Machine Learning education available to everyone, with an emphasis on enabling innovative solutions for the unique challenges faced by Developing Countries.
+These materials are part of the [TiyML4D](https://tinyml.seas.harvard.edu/) and now [AIEng4D](https://community.mlsysbook.ai/) initiative, making Embedded & Edge Machine Learning education available to everyone, with an emphasis on enabling innovative solutions for the unique challenges faced by Developing Countries.

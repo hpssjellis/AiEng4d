@@ -9,7 +9,7 @@ Webpage Link:  [https://hpssjellis.github.io/AiEng4d/](https://hpssjellis.github
 
 ## [mlsysbook.ai](https://mlsysbook.ai/) by Vijay Janapa Reddi, Harvard
 
-## [Support AiEng4D](https://opencollective.com/mlsysbook)
+## [Support AiEng4D](https://opencollective.com/mlsysbook) The mlsysbook.ai opencollective for donations.
 
 Community of researchers and practitioners focused on both improving access to AI Engineering education and enabling innovative solutions for the unique challenges faced by Developing Countries.
 

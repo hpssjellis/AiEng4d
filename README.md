@@ -23,7 +23,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 ## Robotics Machine Learning Courses & Curriculum
 
-### 2026 WebMCU-AI Github Organization: On-Device Machine Learning & WebSerial Assisted Training](https://github.com/webmcu-ai)
+### [2026 WebMCU-AI Github Organization: On-Device Machine Learning & WebSerial Assisted Training](https://github.com/webmcu-ai)
 
 ### [2026 Maker100 Curriculum](https://github.com/hpssjellis/maker100-curriculum)
 ### [2026 Maker100 Leaders Robotics](https://github.com/hpssjellis/maker100-leaders-robotics)

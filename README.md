@@ -18,7 +18,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 <a id="courses" class="anchor-target"></a>
 
-## Courses & Curriculum
+## Robotics Machine Learning Courses & Curriculum
 
 ### 2026 WebMCU-AI Github Organization: On-Device Machine Learning & WebSerial Assisted Training](https://github.com/webmcu-ai)
 
@@ -33,6 +33,19 @@ Community of researchers and practitioners focused on both improving access to A
 
 
 
+<a id="WebAI" class="anchor-target"></a>
+
+## WebAI Resources and Examples
+
+### [local-gemma4-PWA](https://webmcu-ai.github.io/local-gemma4-pwa/index.html) Run the very powerfull Gemma4:e2B and e4B models offline in your browser as an installed Web App.
+### [local ollama PWA Gemma4:12B](https://webmcu-ai.github.io/ollama-gemma4-12b-pwa/index.html) Run the very powerfull Gemma4:12B model offline in your browser as an installed Web App with [ollama.com](https://ollama.com/) installed first.
+### [Chrome Built-in AI](https://hpssjellis.github.io/teach-chrome-built-in-ai-with-examples/) Used to be behind flags now may just run after the model download. Needs 20 GB space and a 2GB download/
+### [Deepseek-R1](https://hpssjellis.github.io/my-examples-of-transformersJS/public/deepseek-r1-webgpu/deepseek-r1-webgpu-00.html). Yes one of the first deepseek that ran in the browser
+### [Janus Pro](https://hpssjellis.github.io/my-examples-of-transformersJS/public/janus-pro/janus-pro-to-image-00.html). Image generation in the browser
+### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/)
+
+
+
 <a id="workshops" class="anchor-target"></a>
 
 ## Workshops & Lectures
@@ -41,12 +54,17 @@ Community of researchers and practitioners focused on both improving access to A
 - #### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready 
 - #### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Zero-Cloud & Client-Side EdgeAI Focus
 
-<a id="WebAI" class="anchor-target"></a>
-
-## WebAI Resources and Examples
 
 
-### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/)
+
+
+<a id="papers" class="anchor-target"></a>
+
+## Papers 
+
+### [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425)
+### [On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller](https://arxiv.org/abs/2604.23012)
+### [WebSerial Vision Training for Microcontrollers: A Browser-Based Companion to On-Device CNN Training](https://arxiv.org/abs/2604.22834)
 
 <a id="about" class="anchor-target"></a>
 

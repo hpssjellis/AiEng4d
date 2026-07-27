@@ -38,7 +38,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 <a id="WebAI" class="anchor-target"></a>
 
-## WebAI Resources and Examples
+## WebAI Resources and Examples By Mr. J. Ellis
 
 ### [local-gemma4-PWA](https://webmcu-ai.github.io/local-gemma4-pwa/index.html) Run the very powerfull Gemma4:e2B and e4B models offline in your browser as an installed Web App.
 ### [local ollama PWA Gemma4:12B](https://webmcu-ai.github.io/ollama-gemma4-12b-pwa/index.html) Run the very powerfull Gemma4:12B model offline in your browser as an installed Web App with [ollama.com](https://ollama.com/) installed first.
@@ -51,11 +51,12 @@ Community of researchers and practitioners focused on both improving access to A
 
 <a id="workshops" class="anchor-target"></a>
 
-## Workshops & Lectures
+## Workshops & Lectures By Mr. J. Ellis
 
-### Highlights
-- #### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready 
-- #### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Zero-Cloud & Client-Side EdgeAI Focus
+### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready, webpage draft [here](https://hpssjellis.github.io/j-ellis-geneva-2026-ai-for-good-conference-presentation/index.html)
+### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Zero-Cloud & Client-Side EdgeAI Focus
+### [TedX Ellis Mission feb13 2026 Why it's important to still do what the machine can do.](https://youtu.be/yM-FTUca23c)
+
 
 
 
@@ -63,7 +64,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 <a id="papers" class="anchor-target"></a>
 
-## Papers 
+## Papers By Mr. J. Ellis
 
 ### [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425)
 ### [On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller](https://arxiv.org/abs/2604.23012)
@@ -71,7 +72,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 <a id="about" class="anchor-target"></a>
 
-## About Me
+## About Me Jeremy Ellis
 
 <img class="profile-photo" src="Ellis-profile.jpg" width=400px alt="Jeremy Ellis teaching" onerror="this.remove()">
 

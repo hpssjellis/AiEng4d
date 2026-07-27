@@ -21,7 +21,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 <a id="courses" class="anchor-target"></a>
 
-## Robotics Machine Learning Courses & Curriculum
+## Robotics Machine Learning Courses & Curriculum By Mr. J. Ellis
 
 ### [2026 WebMCU-AI Github Organization: On-Device Machine Learning & WebSerial Assisted Training](https://github.com/webmcu-ai)
 

@@ -5,7 +5,7 @@ Webpage Link:  [https://hpssjellis.github.io/AiEng4d/](https://hpssjellis.github
 
 
 
-# [AIEng4D]() (former [TinyML4D](https://tinyml.seas.harvard.edu/4D/AcademicNetwork))
+# [AIEng4D](https://community.mlsysbook.ai/) (former [TinyML4D](https://tinyml.seas.harvard.edu/4D/AcademicNetwork))
 
 ## [mlsysbook.ai](https://mlsysbook.ai/) by Vijay Janapa Reddi, Harvard
 

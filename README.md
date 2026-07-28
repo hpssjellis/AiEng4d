@@ -37,7 +37,7 @@ Community of researchers and practitioners focused on both improving access to A
 ### [2022 Maker100 Arduino PortentaH7](https://github.com/hpssjellis/maker100)
 ### [2019 Deprecated Robotics Course](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
 
-
+<hr>
 
 <a id="WebAI" class="anchor-target"></a>
 
@@ -50,7 +50,7 @@ Community of researchers and practitioners focused on both improving access to A
 ### [Janus Pro](https://hpssjellis.github.io/my-examples-of-transformersJS/public/janus-pro/janus-pro-to-image-00.html). Image generation in the browser
 ### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/)
 
-
+<hr>
 
 <a id="workshops" class="anchor-target"></a>
 
@@ -62,7 +62,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 
 
-
+<hr>
 
 
 <a id="papers" class="anchor-target"></a>
@@ -72,6 +72,10 @@ Community of researchers and practitioners focused on both improving access to A
 ### [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425)
 ### [On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller](https://arxiv.org/abs/2604.23012)
 ### [WebSerial Vision Training for Microcontrollers: A Browser-Based Companion to On-Device CNN Training](https://arxiv.org/abs/2604.22834)
+
+
+<hr>
+
 
 <a id="about" class="anchor-target"></a>
 

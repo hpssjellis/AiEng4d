@@ -77,9 +77,9 @@ Community of researchers and practitioners focused on both improving access to A
 
 ## Papers collaborated on or by Mr. J. Ellis
 
-### [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425)
-### [On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller](https://arxiv.org/abs/2604.23012)
-### [WebSerial Vision Training for Microcontrollers: A Browser-Based Companion to On-Device CNN Training](https://arxiv.org/abs/2604.22834)
+### [TinyML4D: Scaling Embedded Machine Learning Education in the Developing World, B. Plancher](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425)
+### [On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller, J. Ellis (ArXiv 2604.23012)](https://arxiv.org/abs/2604.23012)
+### [WebSerial Vision Training for Microcontrollers: A Browser-Based Companion to On-Device CNN Training, J. Ellis (ArXiv 2604.22834)](https://arxiv.org/abs/2604.22834)
 
 
 <hr><br><br>

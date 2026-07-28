@@ -35,7 +35,7 @@ Community of researchers and practitioners focused on both improving access to A
 ### [2026 maker 100 Leaders Robotics Hardware Price List From Source](https://hpssjellis.github.io/maker100-leaders-robotics/price-list-2026.html)
 ### [2026 Maker100 Youtube Playlist](https://www.youtube.com/watch?v=EvNXQ0sk5Ec&list=PL57Dnr1H_egtkBZJku20Bo2zaR8KUJGpa&index=1&pp=gAQBiAQB)
 ### [2025 Maker100 XIAO ML Kit](https://github.com/hpssjellis/maker100-xiaoML-kit)
-### [2024 maker100 Eco](https://github.com/hpssjellis/maker100-xiaoML-kit)
+### [2024 Maker100 Eco](https://github.com/hpssjellis/maker100-xiaoML-kit)
 ### [2022 Maker100 Arduino PortentaH7](https://github.com/hpssjellis/maker100)
 ### [2019 Deprecated Robotics Course](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
 

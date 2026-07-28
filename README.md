@@ -3,7 +3,7 @@
 
 # By Jeremy Ellis Github Profile at [https://github.com/hpssjellis](https://github.com/hpssjellis)
 
-A personal hub for my [Robotics Courses](#courses), WebAI Examples, workshops, and papers — part of my work with the AIEng4D network, advancing Edge AI & TinyML education across the Global South.
+A personal hub for my [Robotics Courses](#courses), [WebAI Examples](#WebAI), [workshops](#workshops), and [papers](#papers) — part of my work with the AIEng4D network, advancing Edge AI & TinyML education across the Global South see the [About Me](#about).
 
 
 Webpage Link:  [hpssjellis.github.io/AiEng4d/](https://hpssjellis.github.io/AiEng4d/), Github Repository at [hpssjellis/AiEng4d](https://github.com/hpssjellis/AiEng4d)   <img src="https://github.com/hpssjellis/AiEng4d/raw/main/aieng4d-mark.png" width=100 align=right>

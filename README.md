@@ -37,7 +37,7 @@ Community of researchers and practitioners focused on both improving access to A
 ### [2022 Maker100 Arduino PortentaH7](https://github.com/hpssjellis/maker100)
 ### [2019 Deprecated Robotics Course](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
 
-<hr>
+<hr><br><br>
 
 <a id="WebAI" class="anchor-target"></a>
 
@@ -50,7 +50,7 @@ Community of researchers and practitioners focused on both improving access to A
 ### [Janus Pro](https://hpssjellis.github.io/my-examples-of-transformersJS/public/janus-pro/janus-pro-to-image-00.html). Image generation in the browser
 ### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/)
 
-<hr>
+<hr><br><br>
 
 <a id="workshops" class="anchor-target"></a>
 
@@ -62,7 +62,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 
 
-<hr>
+<hr><br><br>
 
 
 <a id="papers" class="anchor-target"></a>
@@ -74,7 +74,7 @@ Community of researchers and practitioners focused on both improving access to A
 ### [WebSerial Vision Training for Microcontrollers: A Browser-Based Companion to On-Device CNN Training](https://arxiv.org/abs/2604.22834)
 
 
-<hr>
+<hr><br><br>
 
 
 <a id="about" class="anchor-target"></a>
@@ -91,6 +91,6 @@ His open educational frameworks, tools, and open-source repositories, hosted pub
 
 **[Connect on LinkedIn jeremy-ellis-4237a9bb ↗](https://www.linkedin.com/in/jeremy-ellis-4237a9bb/)**
 
-<hr>
+<hr><br><br>
 
 These materials are part of the [TiyML4D](https://tinyml.seas.harvard.edu/) and now [AIEng4D](https://community.mlsysbook.ai/) initiative, making Embedded & Edge Machine Learning education available to everyone, with an emphasis on enabling innovative solutions for the unique challenges faced by Developing Countries.

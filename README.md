@@ -67,7 +67,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 ### [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices – Virtual – (2024)](https://tinyml.seas.harvard.edu/SciTinyML-24/)
 ### [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices - Virtual - (2023)](https://tinyml.seas.harvard.edu/SciTinyML-23/)
-### [Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education  (July 2023)](https://indico.ictp.it/event/10185/other-view?view=ictptimetable)
+### [Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education Trieste Italy (July 2023)](https://indico.ictp.it/event/10185/other-view?view=ictptimetable)
 
 
 <hr><br><br>

@@ -50,7 +50,7 @@ Community of researchers and practitioners focused on both improving access to A
 ### [Chrome Built-in AI](https://hpssjellis.github.io/teach-chrome-built-in-ai-with-examples/) Used to be behind flags now may just run after the model download. Needs 20 GB space and a 2GB download/
 ### [Deepseek-R1](https://hpssjellis.github.io/my-examples-of-transformersJS/public/deepseek-r1-webgpu/deepseek-r1-webgpu-00.html). Yes one of the first deepseek that ran in the browser
 ### [Janus Pro](https://hpssjellis.github.io/my-examples-of-transformersJS/public/janus-pro/janus-pro-to-image-00.html). Image generation in the browser
-### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/)
+### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/) A massive set of examples for webAI basics.
 
 <hr><br><br>
 

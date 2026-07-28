@@ -1,4 +1,4 @@
-  <link rel="stylesheet" href="./style.css?v=1784931272">
+<!--  <link rel="stylesheet" href="./style.css?v=1784931272">   -->
 
 
 # By Jeremy Ellis Github Profile at [https://github.com/hpssjellis](https://github.com/hpssjellis)
@@ -10,7 +10,7 @@ Webpage Link:  [hpssjellis.github.io/AiEng4d/](https://hpssjellis.github.io/AiEn
 
 
 
-# [AIEng4D](https://community.mlsysbook.ai/) (former [TinyML4D](https://tinyml.seas.harvard.edu/))
+# Link to: [AIEng4D](https://community.mlsysbook.ai/) (former link to: [TinyML4D](https://tinyml.seas.harvard.edu/))
 
 ## [mlsysbook.ai](https://mlsysbook.ai/) by Vijay Janapa Reddi, Harvard
 

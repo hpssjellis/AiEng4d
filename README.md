@@ -44,12 +44,12 @@ Community of researchers and practitioners focused on both improving access to A
 
 ## WebAI Resources and Examples By Mr. J. Ellis
 
-### [local-gemma4-PWA](https://webmcu-ai.github.io/local-gemma4-pwa/index.html) Run the very powerfull Gemma4:e2B and e4B models offline in your browser as an installed Web App.
-### [local ollama PWA Gemma4:12B](https://webmcu-ai.github.io/ollama-gemma4-12b-pwa/index.html) Run the very powerfull Gemma4:12B model offline in your browser as an installed Web App with [ollama.com](https://ollama.com/) installed first.
-### [Chrome Built-in AI](https://hpssjellis.github.io/teach-chrome-built-in-ai-with-examples/) Used to be behind flags now may just run after the model download. Needs 20 GB space and a 2GB download/
-### [Deepseek-R1](https://hpssjellis.github.io/my-examples-of-transformersJS/public/deepseek-r1-webgpu/deepseek-r1-webgpu-00.html). Yes one of the first deepseek that ran in the browser
-### [Janus Pro](https://hpssjellis.github.io/my-examples-of-transformersJS/public/janus-pro/janus-pro-to-image-00.html). Image generation in the browser
-### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/) A massive set of examples for webAI basics.
+1. ### [local-gemma4-PWA](https://webmcu-ai.github.io/local-gemma4-pwa/index.html) Run the very powerfull Gemma4:e2B and e4B models offline in your browser as an installed Web App.
+1. ### [local ollama PWA Gemma4:12B](https://webmcu-ai.github.io/ollama-gemma4-12b-pwa/index.html) Run the very powerfull Gemma4:12B model offline in your browser as an installed Web App with [ollama.com](https://ollama.com/) installed first.
+1. ### [Chrome Built-in AI](https://hpssjellis.github.io/teach-chrome-built-in-ai-with-examples/) Used to be behind flags now may just run after the model download. Needs 20 GB space and a 2GB download/
+1. ### [Deepseek-R1](https://hpssjellis.github.io/my-examples-of-transformersJS/public/deepseek-r1-webgpu/deepseek-r1-webgpu-00.html). Yes one of the first deepseek that ran in the browser
+1. ### [Janus Pro](https://hpssjellis.github.io/my-examples-of-transformersJS/public/janus-pro/janus-pro-to-image-00.html). Image generation in the browser
+1. ### [2017 TensorflowJS WebAI](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/) A massive set of examples for webAI basics.
 
 <hr><br><br>
 

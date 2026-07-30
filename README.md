@@ -55,7 +55,7 @@ Community of researchers and practitioners focused on both improving access to A
 
 <a id="workshops" class="anchor-target"></a>
 
-## Workshops attended & Lectures By Mr. J. Ellis
+## Workshops Attended & Lectures By Mr. J. Ellis
 
 
 1. ### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready, webpage draft [here](https://hpssjellis.github.io/j-ellis-geneva-2026-ai-for-good-conference-presentation/index.html)

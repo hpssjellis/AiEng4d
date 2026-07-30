@@ -59,15 +59,13 @@ Community of researchers and practitioners focused on both improving access to A
 ## Workshops attended & Lectures By Mr. J. Ellis
 
 
-### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready, webpage draft [here](https://hpssjellis.github.io/j-ellis-geneva-2026-ai-for-good-conference-presentation/index.html)
-### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Student short presentations. [New Link](https://community.mlsysbook.ai/community/show)
-### [TedX Ellis Mission feb13 2026 Why it's important to still do what the machine can do.](https://youtu.be/yM-FTUca23c)
-
-### [Workshop on TinyML for Sustainable Development – IBM/ICTP – Brazil (2024)](https://tinyml.seas.harvard.edu/SustainableDev-24/)
-
-### [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices – Virtual – (2024)](https://tinyml.seas.harvard.edu/SciTinyML-24/)
-### [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices - Virtual - (2023)](https://tinyml.seas.harvard.edu/SciTinyML-23/)
-### [Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education Trieste Italy (July 2023)](https://indico.ictp.it/event/10185/other-view?view=ictptimetable)
+1. ### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready, webpage draft [here](https://hpssjellis.github.io/j-ellis-geneva-2026-ai-for-good-conference-presentation/index.html)
+1. ### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Student short presentations. [New Link](https://community.mlsysbook.ai/community/show)
+1. ### [TedX Ellis Mission feb13 2026 Why it's important to still do what the machine can do.](https://youtu.be/yM-FTUca23c)
+1. ### [Workshop on TinyML for Sustainable Development – IBM/ICTP – Brazil (2024)](https://tinyml.seas.harvard.edu/SustainableDev-24/)
+1. ### [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices – Virtual – (2024)](https://tinyml.seas.harvard.edu/SciTinyML-24/)
+1. ### [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices - Virtual - (2023)](https://tinyml.seas.harvard.edu/SciTinyML-23/)
+1. ### [Workshop on Widening Access to TinyML Network by Establishing Best Practices in Education Trieste Italy (July 2023)](https://indico.ictp.it/event/10185/other-view?view=ictptimetable)
 
 
 <hr><br><br>

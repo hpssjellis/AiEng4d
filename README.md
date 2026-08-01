@@ -28,6 +28,8 @@ Community of researchers and practitioners focused on both improving access to A
 
 ## Robotics Machine Learning Courses & Curriculum By Mr. J. Ellis
 
+<img src="xiao-ml-kit.png" alt="XIAO ML Kit for al thee latest J Ellis Robotics Courses" width=400 >
+
 1. ### [2026 WebMCU-AI Github Organization: On-Device Machine Learning & WebSerial Assisted Training](https://github.com/webmcu-ai) My latest Github Organization
 1. ### [2026 Maker100 Curriculum](https://github.com/hpssjellis/maker100-curriculum)
 1. ### [2026 Maker100 Leaders Robotics](https://github.com/hpssjellis/maker100-leaders-robotics) My latest robotics course
@@ -53,13 +55,20 @@ Community of researchers and practitioners focused on both improving access to A
 
 <hr><br><br>
 
+<a id="ShowAndTell" class="anchor-target"></a>
+
+1. ### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Student short presentations. [New Link](https://community.mlsysbook.ai/community/show)
+2. ### [Student Sign Up Form](https://forms.gle/ic52HZMqVv4pBrkP7)
+3. ### [Main Google Meet for the last Thursday 6am PST time zone Student AIEng4D Show and Tell](https://meet.google.com/rns-yyrx-ggw)
+
+<hr><br><br>
+
 <a id="workshops" class="anchor-target"></a>
 
 ## Workshops Attended & Lectures By Mr. J. Ellis
 
 
 1. ### [AI for Good Global Summit — Geneva, Switzerland](https://aiforgood.itu.int/speaker/jeremy-ellis/), [Leaders Robotics](https://aiforgood.itu.int/event/the-maker100-leaders-robotics-framework/), video when ready, webpage draft [here](https://hpssjellis.github.io/j-ellis-geneva-2026-ai-for-good-conference-presentation/index.html)
-1. ### [AIEng4D Global Show & Tell Sessions](https://discuss.tinyml.seas.harvard.edu/t/tinyml4d-show-and-tell-main-index/1216) — Student short presentations. [New Link](https://community.mlsysbook.ai/community/show)
 1. ### [TedX Ellis Mission feb13 2026 Why it's important to still do what the machine can do.](https://youtu.be/yM-FTUca23c)
 1. ### [Workshop on TinyML for Sustainable Development – IBM/ICTP – Brazil (2024)](https://tinyml.seas.harvard.edu/SustainableDev-24/)
 1. ### [SciTinyML: Scientific Use of Machine Learning on Low-Power Devices – Virtual – (2024)](https://tinyml.seas.harvard.edu/SciTinyML-24/)
